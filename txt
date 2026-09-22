@@ -1,0 +1,29 @@
+git book: https://noreply.gitbook.io/born2beroot
+
+debian web: https://www.debian.org/download.en.html
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+
+user: pnarvaez42
+password: pass42
+user: pnarvaez
+password: pass42madrid
+
+! things to be explained
+
+Partitions bonus:
+! image 7 partitions
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+
+encry password: pass42madrid
+![alt text](image-12.png)
